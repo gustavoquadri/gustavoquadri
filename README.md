@@ -43,7 +43,7 @@ Atualmente curso **Ciência da Computação** na Universidade de Caxias do Sul (
 
 ## 📫 Contato
 <p>
-  <a href="https://www.linkedin.com/in/gustavoquadri" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-quadri-738888303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gqreis@ucs.br">
